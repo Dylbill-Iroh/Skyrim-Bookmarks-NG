@@ -3,7 +3,7 @@
 # What does it do?
 
 Saves the page you're on when closing the book menu in Skyrim. Opening the same book again will automatically snap to the saved page for said book.
-Official Nexus Mods Page: [Skyrim Bookmarks](https://www.nexusmods.com/skyrimspecialedition/mods/65410)
+Official Nexus Mods Page: [Skyrim Bookmarks](https://www.nexusmods.com/skyrimspecialedition/mods/195984)
 
 # CommonLibSSE NG
 
