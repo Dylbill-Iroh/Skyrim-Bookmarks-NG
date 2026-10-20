@@ -8,7 +8,7 @@ includes("lib/commonlibsse-ng")
 
 -- set project constants
 set_project("SSEBookmarks")
-set_version("0.0.1")
+set_version("0.0.3")
 set_license("GPL-3.0")
 set_languages("c++23")
 set_warnings("all")
@@ -17,6 +17,7 @@ set_warnings("all")
 add_rules("mode.debug", "mode.releasedbg")
 add_rules("plugin.vsxmake.autoupdate")
 add_rules("plugin.compile_commands.autoupdate", { outputdir = "." })
+set_defaultmode("releasedbg")
 
 -- =====================================================================================================================
 -- xmake f 

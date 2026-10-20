@@ -49,6 +49,8 @@ struct std::formatter<RE::BSFixedString, char> : std::formatter<std::string_view
 // Must come AFTER the RE/SKSE includes above, since that is what drags in
 // windows.h.
 // ---------------------------------------------------------------------------
+
+#undef min
 #undef AddForm
 #undef DeleteForm
 #undef GetForm
